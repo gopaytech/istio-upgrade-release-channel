@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/gopaytech/istio-upgrade-release-channel/services/storage"
 	"github.com/gopaytech/istio-upgrade-release-channel/settings"
+	"github.com/gopaytech/istio-upgrade-release-channel/storage"
 )
 
 func main() {
